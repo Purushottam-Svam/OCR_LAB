@@ -1,0 +1,11 @@
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+.env
+
+# OCR Debugging (We don't want to upload 300MB of images)
+debug/
+input/
